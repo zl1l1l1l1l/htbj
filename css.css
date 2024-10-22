@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 14px;
+}
+body {
+    background-color: darksalmon;
+}
+.standout {
+    color: burlywood;
+    font-weight: bold;
+}
+.mt {
+    margin-top: 1.5rem;
+}
+
+.mb {
+    margin-bottom: 1.5rem;
+}
+
+.a {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.title {
+    color: black;
+    height: 7rem;
+    text-align: center;
+    line-height: 7rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+.introduction {
+    width: 80%;
+    background-color: white;
+    margin-left: 10%;
+    border-radius: 1.2rem;
+    font-size: 1.2rem;
+    padding: 1.6rem;
+    line-height: 1.5rem;
+}
+img{
+    width: 100%;
+}
